@@ -1,8 +1,6 @@
 # Jchael's configs
 ---
 
-# My personal configs
-
 ## Contents
 - (Neo)vim configs
 - PowerShell configs
