@@ -1,5 +1,4 @@
 # Jchael's configs
----
 
 ## Contents
 - (Neo)vim configs
